@@ -3,12 +3,14 @@
 ## React?
 
 사용자 인터페이스를 만들기 위한 JavaScript 라이브러리
-<br /><br />
+
+<br />
 
 ## 선행 지식
 
 JavaScript 언어에 대한 기본적인 이해
-<br /><br />
+
+<br />
 
 ## 간단 코드 예시
 
@@ -21,7 +23,8 @@ ReactDOM.render(<h1>Hello, world!</h1>, document.getElementById("root"));
 ## 안내서 읽는 법
 
 React 앱 구성 블록 (엘리먼트, 컴포넌트) 살펴보기
-<br /><br />
+
+<br />
 
 # > QnA
 
@@ -43,7 +46,7 @@ document.getElementsByTagName("body");
 // > 결과: javascript 객체
 ```
 
-![Untitled](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe1901f83-640a-4483-bc76-b11bafa27656%2FUntitled.png?table=block&spaceId=43245a8c-9cd2-4c2e-99fc-e8ff4195e8c7&id=f9ff4576-33c4-4afe-ace2-58d20b9d645b&width=2000&userId=c46aaedf-5cff-43e4-9371-7aeb1dac7d8c&cache=v2)
+![image](https://user-images.githubusercontent.com/78250089/152672910-791bf8fd-ae2c-47cf-a5bb-9a2c84456742.png)
 
 **[ 그냥 DOM이 아닌 ReactDOM만의 차이 ]**
 
@@ -126,6 +129,6 @@ reportWebVitals(sendToAnalytics);
 ```
 
 출처  
-[https://velog.io/@sunhwa508/reportWebVitals을-사용해보신분](https://velog.io/@sunhwa508/reportWebVitals%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%8B%A0%EB%B6%84)
-[https://create-react-app.dev/docs/measuring-performance/](https://create-react-app.dev/docs/measuring-performance/)
+[https://velog.io/@sunhwa508/reportWebVitals을-사용해보신분](https://velog.io/@sunhwa508/reportWebVitals%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%8B%A0%EB%B6%84)  
+[https://create-react-app.dev/docs/measuring-performance/](https://create-react-app.dev/docs/measuring-performance/)  
 [https://github.com/GoogleChrome/web-vitals/#types](https://github.com/GoogleChrome/web-vitals/#types)
